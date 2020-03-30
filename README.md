@@ -1,5 +1,4 @@
 # frida-crypto
-javax.crypto.spec.SecretKeySpec hooking
 
 
-#hooking the class in javax.crypto*
+# hooking the class in javax.crypto*  and get the key :)
